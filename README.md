@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chaitanya Sai TerliAdd commentMore actions
+# 👋 Hi, I'm Chaitanya Sai Terli
 
 ### 🚀 Frontend Software Engineer | Creator | Mentor
 
