@@ -47,6 +47,15 @@ Component-driven development, Clean code, Performance optimization
 
 ---
 
+## 🧱 Constructed
+
+### 🧰 JSA (JSONToolbox)
+A powerful, free online JSON formatter, viewer, and editor with advanced features including tree view, syntax highlighting, validation, and minification.
+
+**Live Link:** [https://jsa.lovable.app](https://jsa.lovable.app)
+
+---
+
 ## 🏅 Certifications
 
 - **Frontend Web Application Development** — iB Hubs  
