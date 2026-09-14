@@ -30,6 +30,15 @@ Component-driven development, Clean code, Performance optimization
 
 ## 🌟 Favorite Projects
 
+- **[JSONToolbox (JSA)](https://github.com/chaitanya71998/jsa):**  
+  Free online JSON formatter, viewer, and editor. **Live:** [jsa.lovable.app](https://jsa.lovable.app)
+
+- **[Google Meet Agent](https://github.com/chaitanya71998/google_meet_agent):**  
+  Autonomous Meet agent — joins calls, transcribes speech, speaks LLM replies (Next.js + Supabase + Docker).
+
+- **[Cloudy](https://github.com/chaitanya71998/cloudy):**  
+  React Native personal cloud storage with Firebase auth and AWS S3.
+
 - **[Resume on Peerlist](https://peerlist.io/chaitanya71998):**  
   A living portfolio of my work, including technologies used and role highlights.
 
@@ -44,15 +53,6 @@ Component-driven development, Clean code, Performance optimization
 - 🎤 **Mentor & Speaker:** I enjoy mentoring junior devs and hosting internal learning sessions.
 - 🏋️ **Fitness Buff:** Avid about fitness and healthy living.  
 - 🏸 **Hobbies:** Badminton, cricket, exploring productivity systems.
-
----
-
-## 🧱 Constructed
-
-### 🧰 JSA (JSONToolbox)
-A powerful, free online JSON formatter, viewer, and editor with advanced features including tree view, syntax highlighting, validation, and minification.
-
-**Live Link:** [https://jsa.lovable.app](https://jsa.lovable.app)
 
 ---
 
